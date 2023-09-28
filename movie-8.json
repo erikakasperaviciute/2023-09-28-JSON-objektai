@@ -1,0 +1,11 @@
+
+        {
+        "title": "The Covenant",
+        "rating": 7.5,
+        "amountOfRatings": 123000,
+        "yearOfRelease": 2023,
+        "description": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+        "genre": ["Action", "Drama", "Thriller"],
+        "director": "Guy Ritchie",
+        "stars": ["Jake Gyllenhaal","Dar Salim", "Sean Sagar" ]
+    }

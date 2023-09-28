@@ -1,0 +1,10 @@
+        {
+        "title": "Barbie",
+        "rating": 7.1,
+        "amountOfRatings": 335000,
+        "yearOfRelease": 2023,
+        "description": "Barbie suffers a crisis that leads her to question her world and her existence.",
+        "genre": ["Adventure", "Comedy", "Fantasy"],
+        "director": "Greta Gerwig",
+        "stars": ["Margot Robbie","Ryan Gosling", "Issa Rae" ]
+    }

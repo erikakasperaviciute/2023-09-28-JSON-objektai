@@ -1,0 +1,10 @@
+        {
+        "title": "Oppenheimer",
+        "rating": 8.6,
+        "amountOfRatings": 446000,
+        "yearOfRelease": 2023,
+        "description": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+        "genre": ["Biography", "Drama", "History"],
+        "director": "Christopher Nolan",
+        "stars": ["Cillian Murphy","Emily Blunt", "Matt Damon" ]
+    }

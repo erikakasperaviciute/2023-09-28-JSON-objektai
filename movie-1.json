@@ -1,0 +1,10 @@
+    {
+        "title": "A Haunting in Venice",
+        "rating": 6.8,
+        "amountOfRatings": 21000,
+        "yearOfRelease": 2023,
+        "description": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance. But when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+        "genre": ["Crime", "Drama", "Horror"],
+        "director": "Kenneth Branagh",
+        "stars": ["Kenneth Branagh","Michelle Yeoh", "Jamie Dornan" ]
+    }

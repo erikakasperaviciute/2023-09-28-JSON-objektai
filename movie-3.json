@@ -1,0 +1,10 @@
+        {
+        "title": "John Wick: Chapter 4",
+        "rating": 7.8,
+        "amountOfRatings": 279000,
+        "yearOfRelease": 2023,
+        "description": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "genre": ["Action", "Crime", "Thriller"],
+        "director": "Chad Stahelski",
+        "stars": ["Keanu Reeves","Laurence Fishburne", "George Georgiou" ]
+    }

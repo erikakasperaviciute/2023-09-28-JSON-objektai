@@ -1,0 +1,11 @@
+
+            {
+        "title": "The Flash",
+        "rating": 6.8,
+        "amountOfRatings": 175000,
+        "yearOfRelease": 2023,
+        "description": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+        "genre": ["Action", "Adventure", "Fantasy"],
+        "director": "Andy Muschietti",
+        "stars": ["Ezra Miller","Michael Keaton", "Sasha Calle" ]
+    }
